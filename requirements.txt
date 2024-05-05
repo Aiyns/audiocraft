@@ -19,5 +19,3 @@ gradio
 torchmetrics
 encodec
 protobuf
-torchvision==0.16.0
-torchtext==0.16.0
